@@ -1,0 +1,9 @@
+.users-list {
+  cursor: pointer;
+}
+.jumbotron .glyphicon {
+  font-size: 80px;
+}
+.jumbotron {
+  padding: 40px;
+}
